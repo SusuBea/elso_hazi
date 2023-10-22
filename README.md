@@ -1,8 +1,8 @@
 # elso_hazi
-# Table Display Class
+
 
 ## Overview
-
+Hozz létre egy osztályt egy külön js fájlban, ami alkalmas arra, hoygy táblázatban megjelenítse egy lista adatait. A main-js-ben példányosítsd, add át a listát és a szülőElemet, ahova elhelyezzük a táblázatot.
 Create a class in a separate JavaScript file that can be used to display a list of data in a table format. This class is designed to make it easy to present data in a tabular form.
 
 ## Usage
