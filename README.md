@@ -6,6 +6,6 @@ Create a class in a separate JavaScript file that can be used to display a list 
 
 
 
-![TODO 1. minta](elso_hazi.png "Készíts osztályt, hogy a mintának megfelelően jelenjenek meg az adatok!")
+![elso_hazi. minta](elso_hazi.png "Készíts osztályt, hogy a mintának megfelelően jelenjenek meg az adatok!")
 
 
