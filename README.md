@@ -4,6 +4,6 @@ Hozz létre egy osztályt egy külön js fájlban, ami alkalmas arra, hogy tábl
 
 Create a class in a separate JavaScript file that can be used to display a list of data in a table format. This class is designed to make it easy to present data in a tabular form.
 
-![kep. minta](eslo_hazi.PNG "Készíts osztályt, hogy a mintának megfelelően jelenjenek meg az adatok!") 
+![kep. minta](./eslo_hazi.PNG "Készíts osztályt, hogy a mintának megfelelően jelenjenek meg az adatok!") 
 
 
